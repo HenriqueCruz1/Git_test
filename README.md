@@ -1,0 +1,1 @@
+Aplicação para testar comandos Git.
